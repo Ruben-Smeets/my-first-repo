@@ -6,4 +6,4 @@ Dit mijn eerste repo.
 jaja
 ### dit is een kop 
 neenee
-
+![profiel foto](profielfoto.png)
